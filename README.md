@@ -9,14 +9,23 @@ Songlink is the best way to share music. Let’s keep making it better. 🤘 Thi
 * [Contributing (Alternate Take)](#contributing-alternate-take)
 
 ## How to use Songlink
-Great question. Here’s a few ways:
+Sharing Songlinks is powerful. When someone clicks on a Songlink, it is quick and easy for them to start listening to the song in the app they love:
 
-* facebook messenger (shown on ios)
-* facebook messenger (share from spotify)
-* web app, share 
-* copy and paste (spotify, apple, youtube, google iOS/desktop)
-* Workflow from @ndaught
-* saving to home screen on safari?
+![Songlink listen flow gif](https://s3-us-west-1.amazonaws.com/songlinkio/songlink_listen.gif)
+
+It is easy to create and share Songlinks. Just head to our website:
+
+![Songlink webapp flow gif](https://s3-us-west-1.amazonaws.com/songlinkio/songlink_webapp.gif)
+
+Or, you can use a little copy and paste wizardry:
+
+![Song spotify copy manual gif](https://s3-us-west-1.amazonaws.com/songlinkio/songlink_spotify_copy_manual.gif)
+
+If you use Facebook Messenger, you can talk to [Songlink Bot](https://www.messenger.com/t/songlinkbot/), and he (she? it?) will find you the Songlink to share.
+
+If you use the iOS app Workflow, there's some dope workflows like [this one](https://workflow.is/workflows/561b08115edf48d1b205dbf422ca426c).
+
+For more info about all the ways to create Songlink URLs, see the [Songlink as a service](#songlink-as-a-service) section below
 
 ## Contributing
 We want to make it as easy as possible for users to create and share Songlink URLs. Thus, we need to integrate with the tools and apps they use to listen to music and communicate with friends. We’re thinking apps and websites, messaging bots, universal share flows on iOS and Android, etc. We can’t build all of this cool shit ourselves (though we **are** working on some of them!), so we’d like to engage the community and enable all yinz to make Songlink workflows that help you (and maybe even others!) share music. 
