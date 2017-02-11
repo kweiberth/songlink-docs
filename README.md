@@ -1,5 +1,5 @@
 # Songlink
-Songlink is the best way to share music. Let’s keep making it better. 🤘 This doc will (hopefully 🙏🏼) answer your questions.
+Songlink is the best way to share music (we think). But, with your help, we can make it even better. 🙏🏼
 
 * [How to use Songlink](#how-to-use-songlink)
 * [Contributing](#contributing)
