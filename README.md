@@ -21,7 +21,7 @@ Or, you can use a little copy and paste wizardry:
 
 ![Song spotify copy manual gif](https://s3-us-west-1.amazonaws.com/songlinkio/songlink_spotify_copy_manual.gif)
 
-If you use Facebook Messenger, you can talk to [Songlink Bot](https://www.messenger.com/t/songlinkbot/), and he (she? it?) will find you the Songlink to share.
+If you use Facebook Messenger, you can talk to [Songlink Bot](https://www.messenger.com/t/songlinkbot/) and he (she? it?) will find you the Songlink to share.
 
 If you use the iOS app Workflow, there's some dope workflows like [this one](https://workflow.is/workflows/561b08115edf48d1b205dbf422ca426c).
 
@@ -35,8 +35,8 @@ The next section describes how (easy it is) to create Songlink URLs. Please reac
 ## Songlink as a service
 At its core, Songlink is a service that renders Songlink URLs. There are 2 types of Songlink URLs, each of which are easy to compose:
 
-1. **Full Songlink URLs**
-2. **ID-only Songlink URLs**
+1. [Full Songlink URLs](#full-songlink-urls)
+2. [ID-only Songlink URLs](#id-only-songlink-urls)
 
 ### Full Songlink URLs
 
