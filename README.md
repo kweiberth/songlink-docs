@@ -48,21 +48,21 @@ Songlink currently supports Spotify, Apple Music, YouTube and Google Play Music 
 
 #### Spotify
 
-https://songlink.io/https://open.spotify.com/track/2ALFO1JJBhMo7cNNsKlfHd
-https://songlink.io/spotify:track:2ALFO1JJBhMo7cNNsKlfHd
+https://songlink.io/https://open.spotify.com/track/0Jcij1eWd5bDMU5iPbxe2i
+https://songlink.io/spotify:track:35QAUfIbfIXT3p3cWhaKxZ
 
 #### Apple Music
 
-https://songlink.io/https://itun.es/us/5Gb0-?i=1053825088
+https://songlink.io/https://itun.es/us/48WL3?i=932646721
 
 #### YouTube
 
-https://songlink.io/https://www.youtube.com/watch?v=mUYf2yu78Ts
-https://songlink.io/https://youtu.be/mUYf2yu78Ts
+https://songlink.io/https://youtu.be/YZR8WMFK7Qw
+https://songlink.io/https://www.youtube.com/watch?v=Kp7eSUU9oy8
 
 #### Google Play Music
 
-https://songlink.io/https://play.google.com/music/m/Tup7olbv5amthc2jhaz6vubsrj4
+https://songlink.io/https://play.google.com/music/m/Tvvhbnefqhalxuypoxq4xqeo4h4
 
 ### ID-only Songlink URLs
 
@@ -70,27 +70,27 @@ These are shorter, prettier, cooler Songlink URLs 😎. If you can grab the ID o
 
 #### Spotify
 
-`https://songlink.io/ + s/ + Spotify ID`
+`https://songlink.io/ + s/ + Spotify ID (id)`
 
-https://songlink.io/s/2ALFO1JJBhMo7cNNsKlfHd
+https://songlink.io/s/6EsLX3ZbZbAZUn3iaO5MuX
 
 #### Apple Music
 
-`https://songlink.io/ + i/ + Apple Music ID`
+`https://songlink.io/ + i/ + Apple Music ID (trackId)`
 
-https://songlink.io/i/1053825088
+https://songlink.io/i/1067974803
 
 #### YouTube
 
-`https://songlink.io/ + y/ + YouTube ID`
+`https://songlink.io/ + y/ + YouTube ID (id)`
 
-https://songlink.io/y/mUYf2yu78Ts
+https://songlink.io/y/UVtpXvzzXiA
 
 #### Google Play Music
 
-`https://songlink.io/ + g/ + Google Play Music ID`
+`https://songlink.io/ + g/ + Google Play Music ID (storeId)`
 
-https://songlink.io/g/Tup7olbv5amthc2jhaz6vubsrj4
+https://songlink.io/g/Tps4zhpxnp3keaurdgw7wasleze
 
 ## Contributing (Alternate Take)
 Songlink has no funding or revenue stream (we think banner ads are bullshit 🤑). We are committed to maintaining (and, of course, constantly improving) the Songlink platform. Unfortunately, servers aren’t free, my Philz coffee addiction is real and we drink a lot of IPAs. If you’d like to help fund our servers, ☕ or 🍺 you can send us a gift via [Venmo](venmo.com/songlink) or [PayPal](paypal.me/songlink).
