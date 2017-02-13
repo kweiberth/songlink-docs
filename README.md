@@ -30,7 +30,7 @@ For more info about all the ways to create Songlink URLs, see the [Songlink as a
 ## Contributing
 We want to make it as easy as possible for users to create and share Songlink URLs. Thus, we need to integrate with the tools and apps they use to listen to music and communicate with friends. We’re thinking apps and websites, messaging bots, universal share flows on iOS and Android, etc. We can’t build all of this cool shit ourselves (though we **are** working on some of them!), so we’d like to engage the community and enable all yinz to make Songlink workflows that help you (and maybe even others!) share music. 
 
-The next section describes how (easy it is) to create Songlink URLs. Please reach out to kurt@songlink.io with any questions or comments, or to show off a new integration you’ve built. I’ll make a gif of any cool shit you build and highlight it in the [How to use Songlink](#how-to-use-songlink) section above. 
+The next section describes how (easy it is) to create Songlink URLs. Please reach out to support@songlink.io with any questions or comments, or to show off a new integration you’ve built. I’ll make a gif of any cool shit you build and highlight it in the [How to use Songlink](#how-to-use-songlink) section above. 
 
 ## Songlink as a service
 At its core, Songlink is a service that renders Songlink URLs. There are 2 types of Songlink URLs, each of which are easy to compose:
