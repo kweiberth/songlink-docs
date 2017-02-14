@@ -94,6 +94,6 @@ https://songlink.io/y/UVtpXvzzXiA
 https://songlink.io/g/Tps4zhpxnp3keaurdgw7wasleze
 
 ## Contributing (Alternate Take)
-Songlink has no funding or revenue stream (we think banner ads are bullshit 🤑). We are committed to maintaining (and, of course, constantly improving) the Songlink platform. Unfortunately, servers aren’t free, my Philz coffee addiction is real and we drink a lot of IPAs. If you’d like to help fund our servers, ☕ or 🍺 you can send us a gift via [Venmo](venmo.com/songlink) or [PayPal](paypal.me/songlink).
+Songlink has no funding or revenue stream (we think banner ads are bullshit 🤑). We are committed to maintaining (and, of course, constantly improving) the Songlink platform. Unfortunately, servers aren’t free, my Philz coffee addiction is real and we drink a lot of IPAs. If you’d like to help fund our servers, ☕ or 🍺 you can send us a gift via [Venmo](https://venmo.com/songlink) or [PayPal](https://paypal.me/songlink).
 
 ✌️❤️
