@@ -44,7 +44,7 @@ These are the easiest to create. A full Songlink URL is composed by appending th
 
 https://songlink.io/https://itun.es/us/5Gb0-?i=1053825088
 
-Songlink currently supports Spotify, Apple Music, YouTube and Google Play Music urls:
+Songlink currently supports Spotify, Apple Music, YouTube, Google Play Music and Deezer urls:
 
 #### Spotify
 
@@ -64,6 +64,10 @@ https://songlink.io/https://www.youtube.com/watch?v=Kp7eSUU9oy8
 #### Google Play Music
 
 https://songlink.io/https://play.google.com/music/m/Tvvhbnefqhalxuypoxq4xqeo4h4
+
+#### Deezer
+
+https://songlink.io/https://www.deezer.com/track/78621548
 
 ### ID-only Songlink URLs
 
@@ -92,6 +96,12 @@ https://songlink.io/y/UVtpXvzzXiA
 `https://songlink.io/ + g/ + Google Play Music ID (storeId)`
 
 https://songlink.io/g/Tps4zhpxnp3keaurdgw7wasleze
+
+#### Deezer 
+
+`https://songlink.io/ + d/ + Deezer ID (id)`
+
+https://songlink.io/d/66539325d
 
 ## Contributing (Alternate Take)
 Songlink has no funding or revenue stream (we think banner ads are bullshit 🤑). We are committed to maintaining (and, of course, constantly improving) the Songlink platform. Unfortunately, servers aren’t free, my Philz coffee addiction is real and we drink a lot of IPAs. If you’d like to help fund our servers, ☕ or 🍺 you can send us a gift via [Venmo](https://venmo.com/songlink) or [PayPal](https://paypal.me/songlink).
