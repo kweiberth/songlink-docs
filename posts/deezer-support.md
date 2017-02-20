@@ -14,6 +14,6 @@ If you’d like to share a song from Deezer, create a Songlink by simply grabbin
 
 https://songlink.io/https://www.deezer.com/track/66539325
 
-We are working on incorporating some of other the feedback we have received, so stay tuned for more updates. And, as always, please reach out to us via [email](support@songlink.io) or hit us up on [Twitter](https://twitter.com/songlinkio).
+We are working on incorporating some of other the feedback we have received, so stay tuned for more updates. And, as always, please reach out to us via [email](hello@songlink.io) or hit us up on [Twitter](https://twitter.com/songlinkio).
 
 ✌️❤️
